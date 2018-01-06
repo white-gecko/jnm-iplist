@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
 import sys
-import argparse
-import netaddr
-import lxml.etree
+import argparse     # https://docs.python.org/3/library/argparse.html
+import netaddr      # https://pypi.python.org/pypi/netaddr/
+import lxml.etree   # http://lxml.de/
 
 
 def main(args):
